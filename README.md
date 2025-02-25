@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Birendra23&label=Profile%20views&color=0e75b6&style=flat" alt="Birendra" /> </p>
 
-- 🏫 Currently a Sophomore pursuing B.tech in CSE from IES College of Technology,Bhopal.
+- 🏫 Currently a pre-final year student pursuing B.tech in CSE from IES College of Technology,Bhopal.
 - 🧑‍💻 I’m currently learning DSA in C++ , Web Development and exploring other various tech and non tech fields.
 
 <h2 align="left">💻 Languages and Tools</h2>
